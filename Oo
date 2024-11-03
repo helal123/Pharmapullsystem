@@ -1,0 +1,16 @@
+Account Completion.
+
+You did't complete your profile. You can't add articles without complete your profile. Do you want to complete your profile now?
+
+Yes No
+Hey {{userName}}
+ 
+{{profile.about}}
+
+Hey, I'm a article reader and i use this site to read articles to improve my general knowledge
+
+{{profile.address}}
+
+{{profile.email}}
+
+{{user.email}}
